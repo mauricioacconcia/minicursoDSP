@@ -24,6 +24,7 @@ O minicurso é voltado para alunos de Engenharia da Computação e Engenharia El
 ### 2. Manuais
 - [Codec de Audio](Manual%20do%20Codec%20de%20Audio.pdf) - Manual do chip que é utilizado como codec de áudio na DE2-115.
 - [FFT Megacore](Manual%20megacore%20FFT.pdf) - Manual de como utilizar o Megacore que implementa a FFT.
+- [DE2-115 User Manual](DE2_115_User_manual.pdf) - Manual do KIT FPGA.
 
 ### 3. Projetos de hardware
 - [FFT  no FPGA](FFTVisualizer-master.zip) - Projeto do Quartus II para implementação de FFT em um sinal de áudio no FPGA com o kit DE2-115.

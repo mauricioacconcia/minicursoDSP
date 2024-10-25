@@ -30,8 +30,6 @@ O minicurso é voltado para alunos de Engenharia da Computação e Engenharia El
 - [FFT  no FPGA](FFTVisualizer-master.zip) - Projeto do Quartus II para implementação de FFT em um sinal de áudio no FPGA com o kit DE2-115.
 - [Obtenção de sinal de audio](VerilogDE2115AudioFilters-master.zip) - Projeto do Quartus II para obtenção de um sinal de áudio no FPGA com o kit DE2-115.
 
-### 4. Slides
-- [Apresentação em PDF](DSP%20com%20FPGAs.pdf) - Slides do minicurso para consulta posterior.
 
 ---
 

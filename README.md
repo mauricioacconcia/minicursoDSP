@@ -33,10 +33,6 @@ O minicurso é voltado para alunos de Engenharia da Computação e Engenharia El
 ### 4. Slides
 - [Apresentação em PDF](DSP%20com%20FPGAs.pdf) - Slides do minicurso para consulta posterior.
 
-### 5. Repositórios amigos =)
-- [Repositório 1](https://github.com/Goshik92/FFTVisualizer?tab=readme-ov-file)
-- [Repositório 2](https://github.com/Reenforcements/VerilogDE2115AudioFilters)
-
 ---
 
 ## Instruções
